@@ -1,0 +1,21 @@
+.textInput{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* .buttonDiv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+} */
+
+textarea{
+    /* background-color: red; */
+    /* padding: 25px 100px 25px 100px; */
+    padding: 25px;
+    margin-top: 20px;
+    /* border: 1px solid goldenrod; */
+    /* border-radius: 1%; */
+    resize: none;
+}
